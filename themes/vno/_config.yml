@@ -1,0 +1,25 @@
+menu:
+  #Archives: /archives
+  #项目作品: /projects
+  #关于我: /aboutme
+rss: 
+description: 
+social:
+  weibo: http://weibo.com/avking
+  github: https://github.com/yisheng
+  twitter: https://twitter.com/yangdesheng
+  google_plus: https://www.google.com/+DanielYangDesheng
+
+page_comment: true
+logo: http://tp3.sinaimg.cn/1696935602/180/40048792878/1
+background:
+  cover: 
+  color: cover-blue
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: yisheng
+
+google_analytics: UA-18590971-1
+favicon: 
