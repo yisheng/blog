@@ -13,8 +13,8 @@ social:
 page_comment: true
 logo: http://tp3.sinaimg.cn/1696935602/180/40048792878/1
 background:
-  cover: 
-  color: cover-blue
+  cover: /images/background-yisheng.jpg
+  color: cover-slate
 
 archive_date_format: MMM DD
 fancybox: true
