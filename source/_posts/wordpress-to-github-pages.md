@@ -4,6 +4,8 @@ tags:
 - Hexo
 - 个人网站
 - 博客
+- Github Pages
+- Wordpress
 
 ---
 
@@ -18,7 +20,7 @@ tags:
 
 ## 可能的选项
 
-1. [Typecho](http://typecho.org/) 是个不错的选择，她足够简介，又原生支持 Markdown，可仍需下载、部署、维护
+1. [Typecho](http://typecho.org/) 是个不错的选择，她足够简洁，又原生支持 Markdown，可仍需下载、部署、维护
 2. [Github Page](https://pages.github.com/) + [Hexo](http://hexo.io) = Perfect! Github Page 免费托管速度也不错，Hexo 性感强力，合体之后足够美，足够 Geek！
 
 ## Hexo 吸引我的地方
