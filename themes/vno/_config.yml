@@ -2,7 +2,7 @@ menu:
   #Archives: /archives
   #项目作品: /projects
   关于我: /about
-rss: 
+rss: /atom.xml
 description: 
 social:
   weibo: http://weibo.com/avking
