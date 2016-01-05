@@ -305,6 +305,7 @@ hr {
   max-width: 100%;
   margin: 0 auto;
   border-radius: 3px;
+  display: block;
   text-align: center; }
 .post pre {
   width: 95%;
