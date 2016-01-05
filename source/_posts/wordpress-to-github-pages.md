@@ -12,6 +12,7 @@ tags:
 个人网站迁移这件事想了很久，搁了如此久之后，在看到 [Hexo](http://hexo.io) 之时终于付诸实施。[Hexo](http://hexo.io) 实在是太棒了！
 
 ## 迁移的原因
+
 之前的个人网站是使用 Wordpress 搭建，碰到很多问题：
 
 1. [wordpress.com](http://wordpress.com) 在国内是无法访问的，而很多插件的静态资源是在 [wordpress.com](http://wordpress.com) 下的，这直接导致整个网站的速度和可用性非常差
