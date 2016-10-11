@@ -7,4 +7,6 @@ date: 2015-03-27 15:10:59
 - Co-Founder & CTO @ [周伯通招聘](http://www.jobtong.com)
 - Email: yang#desheng.me
 - 微信: yisheng
-- Skills: DOTA / PHP / JavaScript / CSS / Objective-C
+- Skills: Hacker / Developer / Nerd / DOTA
+
+
